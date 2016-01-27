@@ -1,0 +1,515 @@
+{
+    "scope": [
+        "text.html.basic",
+        "text.jade",
+        "text.haml",
+        "text.slim",
+        "text.html"
+    ],
+    "completions": [
+        {
+            "trigger": "role=\"alert\"\t aria role",
+            "contents": "role=\"alert\"\t aria role"
+        },
+        {
+            "trigger": "role=\"alertdialog\"\t aria role",
+            "contents": "role=\"alertdialog\"\t aria role"
+        },
+        {
+            "trigger": "role=\"status\"\t aria role",
+            "contents": "role=\"status\"\t aria role"
+        },
+        {
+            "trigger": "role=\"alertdialog\"\t aria role",
+            "contents": "role=\"alertdialog\"\t aria role"
+        },
+        {
+            "trigger": "role=\"alert\"\t aria role",
+            "contents": "role=\"alert\"\t aria role"
+        },
+        {
+            "trigger": "role=\"dialog\"\t aria role",
+            "contents": "role=\"dialog\"\t aria role"
+        },
+        {
+            "trigger": "role=\"application\"\t aria role",
+            "contents": "role=\"application\"\t aria role"
+        },
+        {
+            "trigger": "role=\"structure\"\t aria role",
+            "contents": "role=\"structure\"\t aria role"
+        },
+        {
+            "trigger": "role=\"widget\"\t aria role",
+            "contents": "role=\"widget\"\t aria role"
+        },
+        {
+            "trigger": "role=\"article\"\t aria role",
+            "contents": "role=\"article\"\t aria role"
+        },
+        {
+            "trigger": "role=\"banner\"\t aria role",
+            "contents": "role=\"banner\"\t aria role"
+        },
+        {
+            "trigger": "role=\"button\"\t aria role",
+            "contents": "role=\"button\"\t aria role"
+        },
+        {
+            "trigger": "role=\"link\"\t aria role",
+            "contents": "role=\"link\"\t aria role"
+        },
+        {
+            "trigger": "role=\"cell\"\t aria role",
+            "contents": "role=\"cell\"\t aria role"
+        },
+        {
+            "trigger": "role=\"checkbox\"\t aria role",
+            "contents": "role=\"checkbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"columnheader\"\t aria role",
+            "contents": "role=\"columnheader\"\t aria role"
+        },
+        {
+            "trigger": "role=\"combobox\"\t aria role",
+            "contents": "role=\"combobox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"select\"\t aria role",
+            "contents": "role=\"select\"\t aria role"
+        },
+        {
+            "trigger": "role=\"textbox\"\t aria role",
+            "contents": "role=\"textbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"listbox\"\t aria role",
+            "contents": "role=\"listbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"complementary\"\t aria role",
+            "contents": "role=\"complementary\"\t aria role"
+        },
+        {
+            "trigger": "role=\"contentinfo\"\t aria role",
+            "contents": "role=\"contentinfo\"\t aria role"
+        },
+        {
+            "trigger": "role=\"definition\"\t aria role",
+            "contents": "role=\"definition\"\t aria role"
+        },
+        {
+            "trigger": "role=\"term\"\t aria role",
+            "contents": "role=\"term\"\t aria role"
+        },
+        {
+            "trigger": "role=\"dialog\"\t aria role",
+            "contents": "role=\"dialog\"\t aria role"
+        },
+        {
+            "trigger": "role=\"directory\"\t aria role",
+            "contents": "role=\"directory\"\t aria role"
+        },
+        {
+            "trigger": "role=\"document\"\t aria role",
+            "contents": "role=\"document\"\t aria role"
+        },
+        {
+            "trigger": "role=\"feed\"\t aria role",
+            "contents": "role=\"feed\"\t aria role"
+        },
+        {
+            "trigger": "role=\"list\"\t aria role",
+            "contents": "role=\"list\"\t aria role"
+        },
+        {
+            "trigger": "role=\"articles\"\t aria role",
+            "contents": "role=\"articles\"\t aria role"
+        },
+        {
+            "trigger": "role=\"articles\"\t aria role",
+            "contents": "role=\"articles\"\t aria role"
+        },
+        {
+            "trigger": "role=\"figure\"\t aria role",
+            "contents": "role=\"figure\"\t aria role"
+        },
+        {
+            "trigger": "role=\"section\"\t aria role",
+            "contents": "role=\"section\"\t aria role"
+        },
+        {
+            "trigger": "role=\"form\"\t aria role",
+            "contents": "role=\"form\"\t aria role"
+        },
+        {
+            "trigger": "role=\"landmark\"\t aria role",
+            "contents": "role=\"landmark\"\t aria role"
+        },
+        {
+            "trigger": "role=\"search\"\t aria role",
+            "contents": "role=\"search\"\t aria role"
+        },
+        {
+            "trigger": "role=\"grid\"\t aria role",
+            "contents": "role=\"grid\"\t aria role"
+        },
+        {
+            "trigger": "role=\"gridcell\"\t aria role",
+            "contents": "role=\"gridcell\"\t aria role"
+        },
+        {
+            "trigger": "role=\"group\"\t aria role",
+            "contents": "role=\"group\"\t aria role"
+        },
+        {
+            "trigger": "role=\"heading\"\t aria role",
+            "contents": "role=\"heading\"\t aria role"
+        },
+        {
+            "trigger": "role=\"img\"\t aria role",
+            "contents": "role=\"img\"\t aria role"
+        },
+        {
+            "trigger": "role=\"section\"\t aria role",
+            "contents": "role=\"section\"\t aria role"
+        },
+        {
+            "trigger": "role=\"link\"\t aria role",
+            "contents": "role=\"link\"\t aria role"
+        },
+        {
+            "trigger": "role=\"button\"\t aria role",
+            "contents": "role=\"button\"\t aria role"
+        },
+        {
+            "trigger": "role=\"list\"\t aria role",
+            "contents": "role=\"list\"\t aria role"
+        },
+        {
+            "trigger": "role=\"section\"\t aria role",
+            "contents": "role=\"section\"\t aria role"
+        },
+        {
+            "trigger": "role=\"listitem\"\t aria role",
+            "contents": "role=\"listitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"listbox\"\t aria role",
+            "contents": "role=\"listbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"listbox\"\t aria role",
+            "contents": "role=\"listbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"combobox\"\t aria role",
+            "contents": "role=\"combobox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"list\"\t aria role",
+            "contents": "role=\"list\"\t aria role"
+        },
+        {
+            "trigger": "role=\"listitem\"\t aria role",
+            "contents": "role=\"listitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"log\"\t aria role",
+            "contents": "role=\"log\"\t aria role"
+        },
+        {
+            "trigger": "role=\"marquee\"\t aria role",
+            "contents": "role=\"marquee\"\t aria role"
+        },
+        {
+            "trigger": "role=\"main\"\t aria role",
+            "contents": "role=\"main\"\t aria role"
+        },
+        {
+            "trigger": "role=\"marquee\"\t aria role",
+            "contents": "role=\"marquee\"\t aria role"
+        },
+        {
+            "trigger": "role=\"log\"\t aria role",
+            "contents": "role=\"log\"\t aria role"
+        },
+        {
+            "trigger": "role=\"math\"\t aria role",
+            "contents": "role=\"math\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menu\"\t aria role",
+            "contents": "role=\"menu\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menubar\"\t aria role",
+            "contents": "role=\"menubar\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menu\"\t aria role",
+            "contents": "role=\"menu\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menuitem\"\t aria role",
+            "contents": "role=\"menuitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menu\"\t aria role",
+            "contents": "role=\"menu\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menubar\"\t aria role",
+            "contents": "role=\"menubar\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menuitemcheckbox\"\t aria role",
+            "contents": "role=\"menuitemcheckbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menuitem\"\t aria role",
+            "contents": "role=\"menuitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menuitemradio\"\t aria role",
+            "contents": "role=\"menuitemradio\"\t aria role"
+        },
+        {
+            "trigger": "role=\"menuitem\"\t aria role",
+            "contents": "role=\"menuitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"navigation\"\t aria role",
+            "contents": "role=\"navigation\"\t aria role"
+        },
+        {
+            "trigger": "role=\"none\"\t aria role",
+            "contents": "role=\"none\"\t aria role"
+        },
+        {
+            "trigger": "role=\"presentation\"\t aria role",
+            "contents": "role=\"presentation\"\t aria role"
+        },
+        {
+            "trigger": "role=\"note\"\t aria role",
+            "contents": "role=\"note\"\t aria role"
+        },
+        {
+            "trigger": "role=\"option\"\t aria role",
+            "contents": "role=\"option\"\t aria role"
+        },
+        {
+            "trigger": "role=\"select\"\t aria role",
+            "contents": "role=\"select\"\t aria role"
+        },
+        {
+            "trigger": "role=\"presentation\"\t aria role",
+            "contents": "role=\"presentation\"\t aria role"
+        },
+        {
+            "trigger": "role=\"none\"\t aria role",
+            "contents": "role=\"none\"\t aria role"
+        },
+        {
+            "trigger": "role=\"progressbar\"\t aria role",
+            "contents": "role=\"progressbar\"\t aria role"
+        },
+        {
+            "trigger": "role=\"radio\"\t aria role",
+            "contents": "role=\"radio\"\t aria role"
+        },
+        {
+            "trigger": "role=\"radiogroup\"\t aria role",
+            "contents": "role=\"radiogroup\"\t aria role"
+        },
+        {
+            "trigger": "role=\"radio\"\t aria role",
+            "contents": "role=\"radio\"\t aria role"
+        },
+        {
+            "trigger": "role=\"region\"\t aria role",
+            "contents": "role=\"region\"\t aria role"
+        },
+        {
+            "trigger": "role=\"section\"\t aria role",
+            "contents": "role=\"section\"\t aria role"
+        },
+        {
+            "trigger": "role=\"row\"\t aria role",
+            "contents": "role=\"row\"\t aria role"
+        },
+        {
+            "trigger": "role=\"rowgroup\"\t aria role",
+            "contents": "role=\"rowgroup\"\t aria role"
+        },
+        {
+            "trigger": "role=\"rowheader\"\t aria role",
+            "contents": "role=\"rowheader\"\t aria role"
+        },
+        {
+            "trigger": "role=\"search\"\t aria role",
+            "contents": "role=\"search\"\t aria role"
+        },
+        {
+            "trigger": "role=\"landmark\"\t aria role",
+            "contents": "role=\"landmark\"\t aria role"
+        },
+        {
+            "trigger": "role=\"form\"\t aria role",
+            "contents": "role=\"form\"\t aria role"
+        },
+        {
+            "trigger": "role=\"searchbox\"\t aria role",
+            "contents": "role=\"searchbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"searchbox\"\t aria role",
+            "contents": "role=\"searchbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"textbox\"\t aria role",
+            "contents": "role=\"textbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"search\"\t aria role",
+            "contents": "role=\"search\"\t aria role"
+        },
+        {
+            "trigger": "role=\"separator\"\t aria role",
+            "contents": "role=\"separator\"\t aria role"
+        },
+        {
+            "trigger": "role=\"scrollbar\"\t aria role",
+            "contents": "role=\"scrollbar\"\t aria role"
+        },
+        {
+            "trigger": "role=\"slider\"\t aria role",
+            "contents": "role=\"slider\"\t aria role"
+        },
+        {
+            "trigger": "role=\"spinbutton\"\t aria role",
+            "contents": "role=\"spinbutton\"\t aria role"
+        },
+        {
+            "trigger": "role=\"range\"\t aria role",
+            "contents": "role=\"range\"\t aria role"
+        },
+        {
+            "trigger": "role=\"status\"\t aria role",
+            "contents": "role=\"status\"\t aria role"
+        },
+        {
+            "trigger": "role=\"alert\"\t aria role",
+            "contents": "role=\"alert\"\t aria role"
+        },
+        {
+            "trigger": "role=\"alert\"\t aria role",
+            "contents": "role=\"alert\"\t aria role"
+        },
+        {
+            "trigger": "role=\"switch\"\t aria role",
+            "contents": "role=\"switch\"\t aria role"
+        },
+        {
+            "trigger": "role=\"checkbox\"\t aria role",
+            "contents": "role=\"checkbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tab\"\t aria role",
+            "contents": "role=\"tab\"\t aria role"
+        },
+        {
+            "trigger": "role=\"table\"\t aria role",
+            "contents": "role=\"table\"\t aria role"
+        },
+        {
+            "trigger": "role=\"section\"\t aria role",
+            "contents": "role=\"section\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tablist\"\t aria role",
+            "contents": "role=\"tablist\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tab\"\t aria role",
+            "contents": "role=\"tab\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tabpanel\"\t aria role",
+            "contents": "role=\"tabpanel\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tabpanel\"\t aria role",
+            "contents": "role=\"tabpanel\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tab\"\t aria role",
+            "contents": "role=\"tab\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tab\"\t aria role",
+            "contents": "role=\"tab\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tablist\"\t aria role",
+            "contents": "role=\"tablist\"\t aria role"
+        },
+        {
+            "trigger": "role=\"term\"\t aria role",
+            "contents": "role=\"term\"\t aria role"
+        },
+        {
+            "trigger": "role=\"definition\"\t aria role",
+            "contents": "role=\"definition\"\t aria role"
+        },
+        {
+            "trigger": "role=\"text\"\t aria role",
+            "contents": "role=\"text\"\t aria role"
+        },
+        {
+            "trigger": "role=\"textbox\"\t aria role",
+            "contents": "role=\"textbox\"\t aria role"
+        },
+        {
+            "trigger": "role=\"timer\"\t aria role",
+            "contents": "role=\"timer\"\t aria role"
+        },
+        {
+            "trigger": "role=\"toolbar\"\t aria role",
+            "contents": "role=\"toolbar\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tooltip\"\t aria role",
+            "contents": "role=\"tooltip\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tree\"\t aria role",
+            "contents": "role=\"tree\"\t aria role"
+        },
+        {
+            "trigger": "role=\"list\"\t aria role",
+            "contents": "role=\"list\"\t aria role"
+        },
+        {
+            "trigger": "role=\"treegrid\"\t aria role",
+            "contents": "role=\"treegrid\"\t aria role"
+        },
+        {
+            "trigger": "role=\"grid\"\t aria role",
+            "contents": "role=\"grid\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tree\"\t aria role",
+            "contents": "role=\"tree\"\t aria role"
+        },
+        {
+            "trigger": "role=\"treeitem\"\t aria role",
+            "contents": "role=\"treeitem\"\t aria role"
+        },
+        {
+            "trigger": "role=\"tree\"\t aria role",
+            "contents": "role=\"tree\"\t aria role"
+        }
+    ]
+}
