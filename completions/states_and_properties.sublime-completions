@@ -1,11 +1,5 @@
 {
-    "scope": [
-        "text.html.basic",
-        "text.jade",
-        "text.haml",
-        "text.slim",
-        "text.html"
-    ],
+    "scope": "text.html.basic, text.jade, text.haml, text.slim, text.html",
     "completions": [
         {
             "trigger": "aria-activedescendant\t aria property",
