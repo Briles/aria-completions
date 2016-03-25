@@ -138,6 +138,10 @@
             "contents": "role=\"gridcell\""
         },
         {
+            "trigger": "role=\"treegrid\"\t aria role",
+            "contents": "role=\"treegrid\""
+        },
+        {
             "trigger": "role=\"group\"\t aria role",
             "contents": "role=\"group\""
         },
@@ -300,10 +304,6 @@
         {
             "trigger": "role=\"tree\"\t aria role",
             "contents": "role=\"tree\""
-        },
-        {
-            "trigger": "role=\"treegrid\"\t aria role",
-            "contents": "role=\"treegrid\""
         },
         {
             "trigger": "role=\"treeitem\"\t aria role",

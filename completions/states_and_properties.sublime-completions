@@ -42,12 +42,12 @@
             "contents": "aria-current=\"${1:page|step|location|date|time|true|false}\"$0"
         },
         {
-            "trigger": "aria-describedat\t aria property",
-            "contents": "aria-describedat=\"${1:URI}\"$0"
-        },
-        {
             "trigger": "aria-describedby\t aria property",
             "contents": "aria-describedby=\"${1:ID reference list}\"$0"
+        },
+        {
+            "trigger": "aria-details\t aria property",
+            "contents": "aria-details=\"${1:ID reference}\"$0"
         },
         {
             "trigger": "aria-disabled\t aria state",
