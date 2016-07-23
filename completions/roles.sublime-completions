@@ -62,16 +62,16 @@
             "contents": "role=\"combobox\""
         },
         {
-            "trigger": "role=\"select\"\t aria role",
-            "contents": "role=\"select\""
-        },
-        {
             "trigger": "role=\"textbox\"\t aria role",
             "contents": "role=\"textbox\""
         },
         {
             "trigger": "role=\"listbox\"\t aria role",
             "contents": "role=\"listbox\""
+        },
+        {
+            "trigger": "role=\"grid\"\t aria role",
+            "contents": "role=\"grid\""
         },
         {
             "trigger": "role=\"complementary\"\t aria role",
@@ -128,10 +128,6 @@
         {
             "trigger": "role=\"search\"\t aria role",
             "contents": "role=\"search\""
-        },
-        {
-            "trigger": "role=\"grid\"\t aria role",
-            "contents": "role=\"grid\""
         },
         {
             "trigger": "role=\"gridcell\"\t aria role",
@@ -214,6 +210,10 @@
             "contents": "role=\"option\""
         },
         {
+            "trigger": "role=\"select\"\t aria role",
+            "contents": "role=\"select\""
+        },
+        {
             "trigger": "role=\"progressbar\"\t aria role",
             "contents": "role=\"progressbar\""
         },
@@ -242,16 +242,16 @@
             "contents": "role=\"rowheader\""
         },
         {
+            "trigger": "role=\"scrollbar\"\t aria role",
+            "contents": "role=\"scrollbar\""
+        },
+        {
             "trigger": "role=\"searchbox\"\t aria role",
             "contents": "role=\"searchbox\""
         },
         {
             "trigger": "role=\"separator\"\t aria role",
             "contents": "role=\"separator\""
-        },
-        {
-            "trigger": "role=\"scrollbar\"\t aria role",
-            "contents": "role=\"scrollbar\""
         },
         {
             "trigger": "role=\"slider\"\t aria role",
@@ -284,10 +284,6 @@
         {
             "trigger": "role=\"tabpanel\"\t aria role",
             "contents": "role=\"tabpanel\""
-        },
-        {
-            "trigger": "role=\"text\"\t aria role",
-            "contents": "role=\"text\""
         },
         {
             "trigger": "role=\"timer\"\t aria role",
