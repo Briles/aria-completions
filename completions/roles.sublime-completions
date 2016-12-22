@@ -50,6 +50,10 @@
             "contents": "role=\"cell\""
         },
         {
+            "trigger": "role=\"gridcell\"\t aria role",
+            "contents": "role=\"gridcell\""
+        },
+        {
             "trigger": "role=\"checkbox\"\t aria role",
             "contents": "role=\"checkbox\""
         },
@@ -128,10 +132,6 @@
         {
             "trigger": "role=\"search\"\t aria role",
             "contents": "role=\"search\""
-        },
-        {
-            "trigger": "role=\"gridcell\"\t aria role",
-            "contents": "role=\"gridcell\""
         },
         {
             "trigger": "role=\"treegrid\"\t aria role",
